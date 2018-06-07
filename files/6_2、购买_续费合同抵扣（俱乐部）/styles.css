@@ -598,3 +598,44 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u912 {
+  border-width:0px;
+  position:absolute;
+  left:496px;
+  top:580px;
+  width:0px;
+  height:0px;
+}
+#u912_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:0px;
+  width:8px;
+  height:195px;
+}
+#u912_seg1 {
+  border-width:0px;
+  position:absolute;
+  left:-120px;
+  top:187px;
+  width:124px;
+  height:8px;
+}
+#u912_seg2 {
+  border-width:0px;
+  position:absolute;
+  left:-125px;
+  top:181px;
+  width:20px;
+  height:20px;
+}
+#u912_text {
+  border-width:0px;
+  position:absolute;
+  left:-50px;
+  top:148px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
