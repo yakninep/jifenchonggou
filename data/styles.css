@@ -75,7 +75,13 @@
 }
 .table_cell {
 }
+._连接线 {
+  font-size:14px;
+  color:#1E1E1E;
+}
 ._流程形状 {
+}
+._形状 {
 }
 .paragraph {
   text-align:left;
@@ -90,6 +96,10 @@
 .box_1 {
 }
 .box_2 {
+}
+.shape {
+}
+.image {
 }
 .primary_button {
   color:#FFFFFF;
@@ -106,6 +116,10 @@
 ._图片1 {
   color:#000000;
 }
+._水平线 {
+}
+._垂直线 {
+}
 ._一级标题1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -113,5 +127,37 @@
   font-size:32px;
   text-align:left;
 }
-._形状 {
+._二级标题1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._形状1 {
+}
+._形状2 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_21 {
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+}
+._文本段落1 {
+  text-align:left;
+}
+.ellipse {
+}
+.paragraph1 {
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
 }
